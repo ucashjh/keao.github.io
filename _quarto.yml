@@ -32,8 +32,7 @@ website:
         href: codes.qmd
       - text: "中文(Chinese)"
         href: Chinese.qmd
-      - text: "CV"
-        href: CV.pdf
+
 
 format:
   html:
