@@ -1,0 +1,38 @@
+---
+title: "Books"
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+
+
+
+
+Some note was collected or written by myself. If you have any questions or discover any errors, you can email me at :<hejiehao23@mails.ucas.ac.cn>
+
+
+
+## Geometry
+
+-   Finsler Geometry note [Course](https://tianyuan.xmu.edu.cn/cn/MiniCourses/3754.html) | [Note download](https://drive.google.com/file/d/1G7GhRxKXQbJCl1pPIwyhgVFONvUIxXgQ/view?usp=drive_link)
+
+---
+
+<div style="display: flex; justify-content: space-between;">
+  <a href="https://www.xiaohongshu.com/user/profile/667bdd4d0000000007007e4d?xsec_token=YBMnOXQHazeWHYjTuXbRwBOZTbBZJc8JHOpIpYGk7MhSA=&xsec_source=app_share&xhsshare=CopyLink&appuid=61a31e790000000010007c40&apptime=1752928783&share_id=2809fa6adfde4740a4a15265552b45fa">
+    <img style="width: 250px" src="zyf.jpg">
+  </a>
+  
+  <a href="https://www.xiaohongshu.com/user/profile/5c5043f80000000011004a6d?xsec_token=ABv3KukOo4fZU497Xo4nESsKb-QuFVnrYRZXuriBxascI%3D&xsec_source=pc_search">
+    <img style="width: 260px" src="zr.jpg">
+  </a>
+  
+  <a href="https://www.xiaohongshu.com/user/profile/5ee0f8bf0000000001005ad6?xsec_token=ABHVMia9oSE7eFJs6mV86EHI98xfSEAsIW0NGSjyK-9NM%3D&xsec_source=pc_search">
+    <img style="width: 248px" src="sss.jpg">
+  </a>
+</div>
+
+
+
+

@@ -1,56 +1,70 @@
 [
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
+    "objectID": "readme.html",
+    "href": "readme.html",
+    "title": "Keao Hohtri's web",
     "section": "",
-    "text": "Links\n\n\n\n\n\nGoogle Scholar: Temporary not until the paper is published.\nORCID: https://orcid.org/0009-0007-3698-3562"
+    "text": "我的 个人主页 是基于 Chi Zhang (github) 的个人主页修改而来的。\n你可以 Fork 本仓库，然后酌情修改你的个人信息，编译后即可生成你的个人主页。这种方法无需注册域名，也不用学习 HTML 和 CSS 等前端知识，直接使用 GitHub Pages 即可完成个人主页的搭建。\n具体制作过程参见：\n\n连小白, 2025, 50 分钟搞定个人主页：Fork 模板 + GitHub Pages + Quarto 完整教程.\n\n本仓库的使用方法：\n\n你可以点击本页右上方的 ⭐Star 按钮来收藏本仓库，方便日后查阅；\n也可以点击 Use this template 按钮来快速 Fork 本仓库。\n你制作个人主页期间有任何问题，可以在 Discussions 提问和讨论。\n\n\n\n主页 | 课程 | 视频 | 推文 | 资料"
   },
   {
-    "objectID": "publications.html#paper",
-    "href": "publications.html#paper",
-    "title": "Publications",
-    "section": "Paper",
-    "text": "Paper"
+    "objectID": "readme.html#如何生成个人主页",
+    "href": "readme.html#如何生成个人主页",
+    "title": "Keao Hohtri's web",
+    "section": "",
+    "text": "我的 个人主页 是基于 Chi Zhang (github) 的个人主页修改而来的。\n你可以 Fork 本仓库，然后酌情修改你的个人信息，编译后即可生成你的个人主页。这种方法无需注册域名，也不用学习 HTML 和 CSS 等前端知识，直接使用 GitHub Pages 即可完成个人主页的搭建。\n具体制作过程参见：\n\n连小白, 2025, 50 分钟搞定个人主页：Fork 模板 + GitHub Pages + Quarto 完整教程.\n\n本仓库的使用方法：\n\n你可以点击本页右上方的 ⭐Star 按钮来收藏本仓库，方便日后查阅；\n也可以点击 Use this template 按钮来快速 Fork 本仓库。\n你制作个人主页期间有任何问题，可以在 Discussions 提问和讨论。\n\n\n\n主页 | 课程 | 视频 | 推文 | 资料"
   },
   {
-    "objectID": "publications.html#note-and-essay",
-    "href": "publications.html#note-and-essay",
-    "title": "Publications",
-    "section": "Note and essay",
-    "text": "Note and essay\n\nA brief introduction of Frobenius Theorem."
+    "objectID": "life.html",
+    "href": "life.html",
+    "title": "Blogs",
+    "section": "",
+    "text": "This page will display my life in the future"
   },
   {
-    "objectID": "CV.html",
-    "href": "CV.html",
+    "objectID": "codes.html",
+    "href": "codes.html",
+    "title": "Codes and project",
+    "section": "",
+    "text": "This page is about my coding work and project.\n lazy to update now"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "何杰豪的个人主页"
+  },
+  {
+    "objectID": "1.html",
+    "href": "1.html",
     "title": "中文简历",
     "section": "",
     "text": "连玉君，男，副教授，博士生导师。2001 年毕业于西安交通大学材料科学与工程学院，获工学学士学位；2007 年毕业于西安交通大学金禾经济研究中心，获经济学博士学位。现任教于中山大学岭南学院金融系。研究方向为公司金融和金融计量，成果见诸 China Economic Review, Stata Journal, 经济研究，管理世界，经济学 (季刊 )，统计研究，金融研究，会计研究 等期刊，已完成国家自然科学基金、教育部人文社会科学基金、广东省自然科学基金等 9 个研究项目。主要讲授金融计量、公司金融等课程，在 MBA 公司金融课程中连续三年获得教学评价满分，获岭南学院教学贡献奖二等奖，获评 2022 年度“我最喜欢的老师”。拟招收公司金融和金融计量方向的博士研究生。\n\n邮箱：arlionn@163.com (优先); lianyj@mail.sysu.edu.cn\n电话：020-84110648\n办公：岭南行政中心 412\n地址：广东省广州市海珠区新港西路 135 号，中山大学岭南学院 (邮编：510275)\n博客：https://www.lianxh.cn\nGithub: https://github.com/lianyujun\n个人主页：https://lianyujun.github.io"
   },
   {
-    "objectID": "CV.html#连玉君个人简介",
-    "href": "CV.html#连玉君个人简介",
+    "objectID": "1.html#连玉君个人简介",
+    "href": "1.html#连玉君个人简介",
     "title": "中文简历",
     "section": "",
     "text": "连玉君，男，副教授，博士生导师。2001 年毕业于西安交通大学材料科学与工程学院，获工学学士学位；2007 年毕业于西安交通大学金禾经济研究中心，获经济学博士学位。现任教于中山大学岭南学院金融系。研究方向为公司金融和金融计量，成果见诸 China Economic Review, Stata Journal, 经济研究，管理世界，经济学 (季刊 )，统计研究，金融研究，会计研究 等期刊，已完成国家自然科学基金、教育部人文社会科学基金、广东省自然科学基金等 9 个研究项目。主要讲授金融计量、公司金融等课程，在 MBA 公司金融课程中连续三年获得教学评价满分，获岭南学院教学贡献奖二等奖，获评 2022 年度“我最喜欢的老师”。拟招收公司金融和金融计量方向的博士研究生。\n\n邮箱：arlionn@163.com (优先); lianyj@mail.sysu.edu.cn\n电话：020-84110648\n办公：岭南行政中心 412\n地址：广东省广州市海珠区新港西路 135 号，中山大学岭南学院 (邮编：510275)\n博客：https://www.lianxh.cn\nGithub: https://github.com/lianyujun\n个人主页：https://lianyujun.github.io"
   },
   {
-    "objectID": "CV.html#教育和工作背景",
-    "href": "CV.html#教育和工作背景",
+    "objectID": "1.html#教育和工作背景",
+    "href": "1.html#教育和工作背景",
     "title": "中文简历",
     "section": "教育和工作背景",
     "text": "教育和工作背景\n\n2011.01-今 中山大学 岭南学院 金融系 副教授\n2024.1-2024.8 麦克马斯特大学 DeGroote 商学院 访问学者\n2015.8-2016.1 麻省理工学院斯隆管理学院 访问学者\n2007.07-2010.12 中山大学 岭南学院 金融系 讲师\n2001.09-2007.07 西安交通大学 金禾经济研究中心 博士(经济学博士)\n1997.09-2001.07 西安交通大学 材料科学与工程学院 本科(工学学士)"
   },
   {
-    "objectID": "CV.html#主讲课程",
-    "href": "CV.html#主讲课程",
+    "objectID": "1.html#主讲课程",
+    "href": "1.html#主讲课程",
     "title": "中文简历",
     "section": "主讲课程",
     "text": "主讲课程\n\n金融计量 (本科)\n公司金融 (本科)\n公司金融及案例（MBA，金融专硕）"
   },
   {
-    "objectID": "CV.html#研究兴趣",
-    "href": "CV.html#研究兴趣",
+    "objectID": "1.html#研究兴趣",
+    "href": "1.html#研究兴趣",
     "title": "中文简历",
     "section": "研究兴趣",
     "text": "研究兴趣\n\n公司财务 (资本结构、公司治理、股权质押、现金持有)\n金融计量 (面板数据模型、随机边界分析)"
@@ -105,76 +119,6 @@
     "text": "科研经历\n1.2024年4月-2024年10月.跟随博后做第一性原理计算,主要是利用仿真软件搭建材料器件结构,探究材料特性,并设计合适的器件结构. 在研究中主要关注CrXY这类载流子迁移率高的材料(其中X为氧/硫,Y为卤族元素),该体系的最大特点是具有PGE效应,即非中心对称材料遇到光照时无需外置电场可产生光电流(光电效应).不仅如此,该材料还具备磁光效应和自旋极化效应,是非常有应用前景的.\n2.2024年10-2025-4月.我参与Ai-agent项目,在项目初期我开始学Python和Pytorch,参与大语言模型的发展调研.在2025年初开始利用Coze平台搭建智能体协助课堂教学,我主要承担训练数据和资源收集(主要利用OCR把资源转化为markdown格式资源),Prompt工程优化,Workflow搭建.在完成了初步agent后,需要开发界面和配置后端,由于本人后续要追求学术因此只参与了部分界面的开发,后续工作交给了合作的同门完成.\n3.2025年1月-2025年6月.我利用机器学习结合材料科学,进行钙钛矿太阳能电池的机器学习回归任务.为了实现机器学习与材料科学的结合,我需要进行数据收集与筛选、模型的训练和调参、模型的评估和可视化模型效果，最终利用1028个人工筛选的数据集并选择了6个传统的机器学习模型进行回归任务.本任务主要借助Sk-learn机器学习包进行并利用R语言完成数据可视化探索和分析.本人承担所有的研究工作,并用Latex完成了一篇个人论文,目前论文交给了博后修改,博后计划加入DFT计算补充说明并于2025年下半年完成论文发表.\n4.2025年6月-现在.参加了厦门大学Finsler几何暑假学校和北京大学应用数学暑假学校,后续计划寻找数学科研工作,为后续读博增加研究经历和加强专业知识."
   },
   {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Blogs",
-    "section": "",
-    "text": "我平时喜欢把学习和研究中的笔记整理出来，以推文的形式分享给大家。\n这个习惯让我受益良多。\n其一，写作有助于训练自己的深度思考能力。写作过程中，你需要以一种多数读者都能「读懂」的方式来组织文字。这就要求你必须从不同的角度思考你要解释的概念或模型，将其「压缩」到最基本的概念和原理层面，然后从一些生活中例子，或多数读者都熟悉的概念入手，逐渐引导读者进入新的概念和模型。有时候，这需要长久的思考，并与不同人进行讨论，根据他们的反馈调整你的表述方式。在此过程中，受益最大的是自己。很多时候，当你兴冲冲地准备开始写一篇推文时，却发现开头部分很不顺畅，这很可能是你还没有从深层理解你要介绍的东西，你只是掌握了一些表面的东西，或者只是熟悉某个模型的估计命令 (而不是原理)。然而，当你按照上述「压缩」逻辑，尝试用最精简的例子来解释概念和原理时，你对它们的理解会不断加深。\n其二，写作有助于提高表达能力。许多人将语言流畅、用词华丽视为表达能力强的标志，但这只是表面现象。真正的表达能力在于，能够以听众能理解的语言，基于他们的知识背景，把自己想要传达的观点或概念讲清楚。在写作过程中，我们往往已经反复思考过如何最佳地表达，因此，当你在与别人讲解你写过的内容时，通常能够更加清晰和有条理地表达自己的想法。"
-  },
-  {
-    "objectID": "blog.html#new-10",
-    "href": "blog.html#new-10",
-    "title": "Blogs",
-    "section": "New 10",
-    "text": "New 10\n\n连玉君, 2025, 如何借助 AI 工具来伴读一篇理论类的论文？. 2025/04/28\n连玉君, 2025, 老连买电脑：ChatGPT，DeepSeek，豆包来帮忙. 2025/04/05\n连玉君, 2025, 异质性分析：如何避免“事后看碟下菜”？. 2025/03/30\n连玉君, 2025, 异质性分析：揭示理论成立的边界条件. 2025/03/29\n连玉君, 2025, Stata：如何永久修改我的PERSONAL文件夹的位置？. 2025/01/21\n连玉君, 2025, Stata：回归分析中的权重问题-aweight-fweight. 2025/01/06\n连玉君, 2024, Stata绘图：如何调整图形的纵横比？. 2024/12/26\n颜国强,连玉君, 2024, tidyplots：跟 ggplot2 说再见吧！. 2024/12/06\n连玉君, 2024, ttestplus：组间均值差异统计和检验. 2024/12/02\n连玉君, 2024, 从 Stata 到 R：如何使用 tag() 和 if_else() 标记分组中的首个观测. 2024/11/06"
-  },
-  {
-    "objectID": "blog.html#hot-10",
-    "href": "blog.html#hot-10",
-    "title": "Blogs",
-    "section": "Hot 10",
-    "text": "Hot 10\n\n连玉君, 2020, Stata: 如何检验分组回归后的组间系数差异？, 连享会 No.19. Hits: 107757\n王若溪, 连玉君, 2020, Stata结果输出：pwcorr_a输出相关系数矩阵, 连享会 No.348. Hits: 103441\n游万海, 连玉君, 2020, Stata: 面板数据模型一文读懂, 连享会 No.122. Hits: 98131\n杨柳, 连玉君, 2020, Stata: 工具变量法 (IV) 也不难呀！, 连享会 No.31. Hits: 72251\n杨鑫, 秦利宾, 连玉君, 2020, Stata：聚类调整后的标准误-Cluster-SE, 连享会 No.155. Hits: 46120\n连玉君, 杨柳, 2020, Stata：Logit模型一文读懂, 连享会 No.170. Hits: 43315\n连玉君, 杨柳, 2020, Stata: 边际效应分析, 连享会 No.64. Hits: 41968\n周洋, 连玉君, 李森林, 2020, 平方项 = 倒U型 ？, 连享会 No.70. Hits: 38528\n连玉君, 张静瑶, 2020, 加入控制变量后结果悲催了！, 连享会 No.135. Hits: 35510\n陈贤孟, 2020, 正确姿势：回归系数的解释与评估, 连享会 No.277. Hits: 33325"
-  },
-  {
-    "objectID": "blog.html#all",
-    "href": "blog.html#all",
-    "title": "Blogs",
-    "section": "ALL",
-    "text": "ALL\n\n连玉君, 2025, 如何借助 AI 工具来伴读一篇理论类的论文？\n连玉君, 2025, 老连买电脑：ChatGPT，DeepSeek，豆包来帮忙\n连玉君, 2025, 异质性分析：如何避免“事后看碟下菜”？\n连玉君, 2025, 异质性分析：揭示理论成立的边界条件\n连玉君, 2025, Stata：如何永久修改我的PERSONAL文件夹的位置？\n连玉君, 2025, Stata：回归分析中的权重问题-aweight-fweight\n连玉君, 2024, Stata绘图：如何调整图形的纵横比？\n颜国强,连玉君, 2024, tidyplots：跟 ggplot2 说再见吧！\n连玉君, 2024, ttestplus：组间均值差异统计和检验\n连玉君, 2024, 从 Stata 到 R：如何使用 tag() 和 if_else() 标记分组中的首个观测\n连玉君, 2024, Stata2R：那些 R 中的 _N 和 _n 替代技巧\n连玉君, 2024, R数据处理-多条件判断：ifelse() 和 case_when()\n连玉君, 2024, VScode插件：安装、配置和使用\n连玉君, 2024, 从基础到 AI 助手：Python 用户最爱的 VScode 插件清单\n连玉君, 2024, TeXStudio：无法正常显示中文字符怎么办？\n连玉君, 2024, RStudio常用的快捷键一览\n连玉君, 2024, 递归算法：快速排序的 R、Stata 和 Python 实现\n连玉君, 2024, R语言如何实现Stata中的local功能？\n连玉君, 2024, Markdown：连老师的Typora主题模板css文件下载\n连玉君, 2024, 执行PSM匹配后观察值会减少吗？\n连玉君, 2024, 快速查看ado源文件的两种方法\n连玉君, 2024, 借助ChatGPT4o学习排序算法：AI代码助手好酸爽！\n连玉君, 2024, VScode：实用 Markdown 插件推荐\n连玉君, 2024, getiref：快速获得文献的引文和PDF原文\n连玉君, 2024, Stata结果输出：手动添加带星号的统计量\n连玉君, 2024, antrho与Fisher转换：heckman和treareg等命令中参数含义\n连玉君, 2024, antrho与Fisher转换：heckman和treareg等命令中参数含义\n杨涵慧, 连玉君, 2024, Stata绘图：插图！子图！grinset\n连玉君, 2024, 多组成绩调整的简便方法：固定效应模型妙用\n连玉君, 2024, Stata 绘图：图形中的中文和英文能否设定为不同的字体\n连玉君, 2023, Stata编程：快速查找Stata代码片段\n连玉君, 2023, ivreghdfe-高维固定效应IV估计：错误信息处理-817 lines skipped\n连玉君, 2023, ivreghdfe-高维固定效应IV估计：错误信息处理-817 lines skipped\n连玉君, 2023, 字符函数ustrregexm()：文字变量匹配中的英文字母大小写问题\n连玉君, 2023, 刺猬与狐狸：Stata与R语言常用命令等价对比\n冯超楠, 2023, 连玉君Stata33讲：面板数据模型简介-FE和RE有何区别？\n连玉君, 2023, 最后一周：如何修改我的毕业论文？\n连玉君, 2023, 连玉君：我与ChatGPT聊了一个月\n连玉君, 2022, Marp幻灯片模板：用Markdown快速写幻灯片\n连玉君, 2022, Stata绘图：唯美的函数图-自定义水平附加线和竖直附加线\n连玉君, 2022, Stata101：人手一份的入门指南\n连玉君, 2022, LaTeX：TeXStudio编辑器快捷键大全\n连玉君, 2022, 我为什么越跑越肥？交乘项系数的直观解释\n连玉君, 2022, 图解Lasso系列A：Lasso的变量筛选能力\n连玉君, 2021, 用VScode正则表达式转换Markdown和LaTeX链接\n连玉君, 2021, 聊聊Stata中的profile文件-第二季\n连玉君, 2021, AxMath-设置字体-伪装成Word数学公式\n史津宇, 连玉君, 2021, Stata：投资组合有效边界\n连玉君, 2021, 连玉君的链接\n连玉君, 2021, 毕业季：如何修改你的毕业论文？\n连玉君, 2021, Stata：提问时请务必用 dataex 命令\n连玉君, 2021, 内生性：来源及处理方法-幻灯片下载\n连玉君, 2021, Stata错误信息-stacktrace not available：安装路径中不要包含中文字符和空格\n连玉君, 2021, rddensity, lpdensity无法安装？那就手动安装\n严子凯, 连玉君, 2021, Stata-Mata系列 (二)：Mata与Stata的交互\n连玉君, 2021, Stata安装路径中不要包含中文字符和空格：stacktrace not available错误信息\n连玉君, 2020, Stata与LaTeX的完美结合\n徐云娇, 连玉君, 2020, Stata：数值求解极大值及 MLE 示例\n连玉君, 2020, 字符编码问题三个不可见的字符（0xEF-0xBB-0xBF，即BOM）\n连玉君, 2020, 可汗学院风格电子板书攻略：Wacom+ArtRage\n连玉君, 2020, Stata：在线可视化模拟-OLS-的性质\n朱磊, 连玉君, 2020, Stata：今天你table了吗？图片版\n连玉君, 2020, Stata：文字型日期格式的转换\n连玉君, 2020, Stata：因变量是类别变量时采用什么方法估计？\n侯新烁, 连玉君, 2020, 快速呈现常用分布临界值表\n连玉君, 2020, 公司财务-投资组合Stata实现-Berk-Corporate-Finance-Chapter-11-Examples\n连玉君, 许梦洁, 2020, Stata：系数为何不显著？GIF演示OLS的性质.md\n连玉君, 2020, Stata：dofile转PDF制作讲义方法\n连玉君, 2020, Stata：普通年金现值系数表\n连玉君, 2020, Stata：根据当前日期返回是周几\n连玉君, 2020, Stata：聚类调整标准误笔记\n连玉君, 2020, Stata：配对对象的均值-(俄罗斯方块移动)\n王若溪, 连玉君, 2020, Stata结果输出：pwcorr_a输出相关系数矩阵\n连玉君, 2020, Stata绘图：怎么在Stata图形中附加水平线或竖直线？\n连玉君, 2020, Stata程序：是否有类似-Python-中的-zip()-函数\n连玉君, 2020, Stata程序：我的程序多久能跑完？\n连玉君, 2020, Stata程序：切割文件路径和文件名\n连玉君, 2020, Stata绘图：重新定义坐标轴刻度标签\n卢家锐, 连玉君, 2020, Stata绘图：用-bytwoway-实现快速分组绘图\n连玉君, 2020, Stata绘图：制作教学演示动态图-GIF\n连玉君, 2020, Stata基础：数据显示格式和四舍五入\n连玉君, 2020, Stata数据处理：ftree命令-用txt文档记录文件夹结构\n连玉君, 2020, Stata数据处理：分年度-行业计算销售额前四名的行业占比\n连玉君, 2020, Markdown：五分钟Markdown教程\n连玉君, 2020, Stata新命令：ereplace-egenmore-egenmisc\n连玉君, 2020, Stata数据处理：物价指数-(CPI)-的导入和转换\n谢作翰, 连玉君, 2020, Stata小白系列之二：数据拆分与合并\n连玉君, 2020, Stata数据处理：如何提取某个变量有记录的第一年的年份\n连玉君, 2020, Stata小抄：一组图记住Stata常用命令\n连玉君, 2020, Markdown图床：我们的图片存在哪里？\n谢作翰, 连玉君, 2020, Stata小白系列之一：调入数据\n连玉君, 2020, Markdown教程之LaTeX数学公式简介\n连玉君, 2020, 神器-数学公式识别工具-mathpix\n连玉君, 2020, Stata基础：一些漂亮的字符画\n陈贤孟, 2020, 正确姿势：回归系数的解释与评估\n连玉君, 2020, 连玉君Markdown笔记\n连玉君, 杨柳, 2020, Stata：Logit模型一文读懂\n连玉君, 2020, Markdown中书写LaTeX数学公式简介\n连玉君, 2020, Stata：图示连续变量的连续边际效应\n连玉君, 2020, Stata：图示苹果公司(APPL)历年现金股利\n连玉君, 2020, Stata：xtabond命令中的endog()选项设定问题\n连玉君, 2020, Stata: 如何快速合并 3500 个无规则命名的数据文件？\n连玉君, 2020, Stata: 实时估计个股贝塔(beta)系数\n顾小龙, 连玉君, 2020, Stata帮助和网络资源汇总(持续更新中)\n卢家锐, 连玉君, 2020, 哇！Stata参考书和经典教材！\n连玉君, 2020, Stata15快捷键：键盘就是你的武器\n杨柳, 连玉君, 2020, Stata: 工具变量法 (IV) 也不难呀！\n陈鑫梅, 连玉君, 2020, Stata：刀切法-去一法-Jackknife 简介\n连玉君, 2020, Stata绘图：用暂元统一改变图形中的字号\n杨柳, 连玉君, 2020, Stata因子变量：虚拟变量-交乘项批量处理\n连玉君, 2020, Stata：gen 和 egen 中的 sum() 函数异同\n杨鑫, 秦利宾, 连玉君, 2020, Stata：聚类调整后的标准误-Cluster-SE\n连玉君, 杨柳, 2020, Stata：因子变量全攻略\n连玉君, 2020, 在 Markdown 中使用表情符号\n连玉君, 2020, Stata：聊聊 profile.do 文件\n连玉君, 2020, Stata：reghdfe命令报错问题\n连玉君, 2020, 交乘项-交叉项的中心化问题\n连玉君, 2020, 毕业答辩：我准备好了！\n连玉君, 陈鑫梅, 2020, 可重复性研究：如何保证你的研究结果可重现？\n连玉君, 张静瑶, 2020, 加入控制变量后结果悲催了！\n周洋, 连玉君, 李森林, 2020, 平方项 = 倒U型 ？\n游万海, 连玉君, 2020, Stata: 面板数据模型一文读懂\n连玉君, 杨柳, 2020, Stata: 边际效应分析\n连玉君, 2020, Stata黑白图形模板：中文期刊风格的纯黑白图形\n吴世飞, 连玉君, 2020, 残差是个宝：盈余管理、过度投资、超额收益怎么算？\n连玉君, 2020, 如何比较解释变量的系数相对大小？\n连玉君, 2020, Stata: 如何检验分组回归后的组间系数差异？\n于翔, 连玉君, 2020, Stata中文乱码转码顽疾解决方法-批量转换\n刘杨, 连玉君, 2020, Stata可视化：让他看懂我的结果！coefplot-arrowplot\n连玉君, 2020, gInk：一款好用的屏幕标注写画软件\n连玉君, 2020, Endnote 使用说明和自定义中文期刊模板\n连玉君, 2020, 一个博士生应该掌握哪些工具和武器\n连玉君, 2020, Stata 新命令：多断点 RDD 分析 - rdmc\n连玉君, 2020, Sai2: 一款流畅的电子板书软件\n连玉君, 2020, 直播电子板书：Word, PPT, PDF 手写批注很轻松\n连玉君, 2020, 教师利器 - ZoomIt 4.5 屏幕缩放标注小软件\n连玉君, 2020, Stata Plus-连老师的 Stata 外部命令集 (Update)\n连玉君, 2020, 协整：醉汉牵着一条狗\n连玉君, 2019, mdnice.cn——Markdown、知乎、公众号排版神器\n连玉君, 2019, 两种网页转Markdown的简便方法\n连玉君, 2019, Stata：回归结果中不报告行业虚拟变量的系数\n谢作翰, 连玉君, 2019, 普林斯顿Stata教程(一) - Stata数据处理\n连玉君, 2019, Stata: gen 命令中的 group() 函数的潜在风险\n游万海, 连玉君, 2019, Stata: 外部命令的搜索、安装与使用"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "何杰豪的个人主页"
-  },
-  {
-    "objectID": "books.html",
-    "href": "books.html",
-    "title": "Books",
-    "section": "",
-    "text": "主页 || 课程 || 视频 || 推文 || 资料\n这些书稿是由我平时上课时的讲义整理而成的，尚未完稿。大家在阅读过程中，若发现错误或表述不妥之处，烦请邮件告知我，以便完善。我的邮箱：arlionn@163.com。"
-  },
-  {
-    "objectID": "books.html#stata",
-    "href": "books.html#stata",
-    "title": "Books",
-    "section": "Stata",
-    "text": "Stata\n\n连玉君，2025，Stata 101 | 课件下载\n\n观看配套视频：连享会视频课堂 | B 站"
-  },
-  {
-    "objectID": "books.html#python",
-    "href": "books.html#python",
-    "title": "Books",
-    "section": "Python",
-    "text": "Python\n\n连玉君, 2025, 数据分析与 Python 应用\n\n我教授的数据分析与经济决策课程的讲义，还很粗糙。"
-  },
-  {
-    "objectID": "books.html#quarto-book",
-    "href": "books.html#quarto-book",
-    "title": "Books",
-    "section": "Quarto book",
-    "text": "Quarto book\n\n连玉君，2025，quarto book。\n\n这本书介绍了如何使用 Quarto+Github，编写在线笔记和教程。你无须申请域名，只需下载我提供的模版，添加你自己的书稿或笔记内容，运行后通过 github pages 发布你的书稿。整个流程只需要几个小时的时间就可以搞定。\n\n\n \n\n\n主页 || 课程 || 视频 || 推文 || 资料"
-  },
-  {
-    "objectID": "codes.html",
-    "href": "codes.html",
-    "title": "Codes",
-    "section": "",
-    "text": "Many of the links below will take you to content on GitHub (my github).\n\nlianxh：在 Stata 中快速搜索 lianxh.cn 推文并按指定格式输出\n\n连享会, 2020, ssc install lianxh：你想要的 Stata 都在这里\n连享会, 2023, 新版lianxh命令发布了！\n\nbdiff：组间系数差异检验\n\n李烨阳, 2023, Stata：自己动手做组间系数差异检验-bootstrap-bdiff.\n连玉君, 2020, Stata: 如何检验分组回归后的组间系数差异？.\n\nwinsor2：批量缩尾处理\n\n袁煜玲, 2021, winsor2：离群值和异常值的缩尾处理.\n\nihelp / wwwhelp\n\n连享会, 2024, ihelp: 快速打开Stata帮助文件PDF手册.\nChen Yongli, Lian Yujun*. Browse and cite Stata manuals easily: the wwwhelp command. Stata Journal, 2024, 24 (1): 161–168. -PDF-. 安装：ssc install ihelp, replace\n\ngetiref\n\n连玉君, 2024, getiref：快速获得文献的引文和PDF原文.\n\nsftt：双边随机边界模型\n\nLian Yujun, Chang Liu, Christopher F. Parmeter. Two-tier stochastic frontier analysis using Stata. Stata Journal, 2023, 23(1): 197-229. -Link-, -PDF-, Codes & Data, github. 安装：net install st0705.pkg, all replace\n\nhhi5：赫芬达尔指数\n\n连享会, 2020, Stata数据处理：赫芬达尔指数-(hhi5)-命令介绍\n\nxtbalance：非平衡面板 → 平衡面板\n\n吴雄, 2020, Stata数据处理：xtbalance-非平衡面板之转换."
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Keao Hohtri(Chinese name 何杰豪,He Jiehao )",
@@ -189,17 +133,38 @@
     "text": "Sep 2018 - Jun 2022: Bachelor, South China Agriculture Univeristy\nJun 2022 - Jul 2023: Part time home tutor\nSep 2023 - Present: Condense Matter Physics Master, Univeristy of Chinese Academic of Sciences"
   },
   {
-    "objectID": "readme.html",
-    "href": "readme.html",
-    "title": "Keao Hohtri's web",
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
     "section": "",
-    "text": "我的 个人主页 是基于 Chi Zhang (github) 的个人主页修改而来的。\n你可以 Fork 本仓库，然后酌情修改你的个人信息，编译后即可生成你的个人主页。这种方法无需注册域名，也不用学习 HTML 和 CSS 等前端知识，直接使用 GitHub Pages 即可完成个人主页的搭建。\n具体制作过程参见：\n\n连小白, 2025, 50 分钟搞定个人主页：Fork 模板 + GitHub Pages + Quarto 完整教程.\n\n本仓库的使用方法：\n\n你可以点击本页右上方的 ⭐Star 按钮来收藏本仓库，方便日后查阅；\n也可以点击 Use this template 按钮来快速 Fork 本仓库。\n你制作个人主页期间有任何问题，可以在 Discussions 提问和讨论。\n\n\n\n主页 | 课程 | 视频 | 推文 | 资料"
+    "text": "Links\n\n\n\n\n\nGoogle Scholar: Temporary not until the paper is published.\nORCID: https://orcid.org/0009-0007-3698-3562"
   },
   {
-    "objectID": "readme.html#如何生成个人主页",
-    "href": "readme.html#如何生成个人主页",
-    "title": "Keao Hohtri's web",
+    "objectID": "publications.html#paper",
+    "href": "publications.html#paper",
+    "title": "Publications",
+    "section": "Paper",
+    "text": "Paper"
+  },
+  {
+    "objectID": "publications.html#note-and-essay",
+    "href": "publications.html#note-and-essay",
+    "title": "Publications",
+    "section": "Note and essay",
+    "text": "Note and essay\n\nA brief introduction of Frobenius Theorem."
+  },
+  {
+    "objectID": "sources.html",
+    "href": "sources.html",
+    "title": "Books",
     "section": "",
-    "text": "我的 个人主页 是基于 Chi Zhang (github) 的个人主页修改而来的。\n你可以 Fork 本仓库，然后酌情修改你的个人信息，编译后即可生成你的个人主页。这种方法无需注册域名，也不用学习 HTML 和 CSS 等前端知识，直接使用 GitHub Pages 即可完成个人主页的搭建。\n具体制作过程参见：\n\n连小白, 2025, 50 分钟搞定个人主页：Fork 模板 + GitHub Pages + Quarto 完整教程.\n\n本仓库的使用方法：\n\n你可以点击本页右上方的 ⭐Star 按钮来收藏本仓库，方便日后查阅；\n也可以点击 Use this template 按钮来快速 Fork 本仓库。\n你制作个人主页期间有任何问题，可以在 Discussions 提问和讨论。\n\n\n\n主页 | 课程 | 视频 | 推文 | 资料"
+    "text": "Some note was collected or written by myself. If you have any questions or discover any errors, you can email me at :hejiehao23@mails.ucas.ac.cn"
+  },
+  {
+    "objectID": "sources.html#geometry",
+    "href": "sources.html#geometry",
+    "title": "Books",
+    "section": "Geometry",
+    "text": "Geometry\n\nFinsler Geometry note Course | Note download"
   }
 ]

@@ -18,7 +18,7 @@ about:
       href: https://www.xiaohongshu.com/user/profile/61a31e790000000010007c40
     - icon: 📝
       text: CV
-      href: CV-en.pdf  
+      href: CV.pdf  
 ---
 
 ::: {#hero-heading}
