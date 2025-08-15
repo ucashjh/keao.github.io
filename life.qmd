@@ -1,5 +1,5 @@
 ---
-title: "Blogs"
+title: "Lifes"
 editor: 
   markdown: 
     wrap: 72
