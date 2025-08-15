@@ -24,10 +24,10 @@ website:
         href: index.qmd
       - text: "Publications"
         href: publications.qmd
-      - text: "Books"
-        href: books.qmd
-      - text: "Blogs"
-        href: blog.qmd
+      - text: "Sources"
+        href: sources.qmd
+      - text: "Life"
+        href: life.qmd
       - text: "Codes"
         href: codes.qmd
       - text: "中文(Chinese)"
