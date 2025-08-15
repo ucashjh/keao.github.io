@@ -16,9 +16,6 @@ about:
     - icon: brands xing
       text: Red note
       href: https://www.xiaohongshu.com/user/profile/61a31e790000000010007c40
-    - icon: 📝
-      text: CV
-      href: CV.pdf  
 ---
 
 ::: {#hero-heading}
