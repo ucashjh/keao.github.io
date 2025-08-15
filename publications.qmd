@@ -3,19 +3,18 @@ title: "Publications"
 editor: visual
 ---
 
-
-::: {.callout-note}
+::: callout-note
 ## Links
 
->- **Google Scholar**: Temporary not until the paper is published.
->- **ORCID**: <https://orcid.org/0009-0007-3698-3562>
+> -   **Google Scholar**: Temporary not until the paper is published.
+> -   **ORCID**: <https://orcid.org/0009-0007-3698-3562>
 :::
 
-&emsp;
+ 
 
 ## Paper
 
-- 
+-   
 
 ## Note and essay
 
