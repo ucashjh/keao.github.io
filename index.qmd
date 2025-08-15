@@ -14,7 +14,7 @@ about:
       text: ucashjh
       href: https://github.com/ucashjh
     - icon: brands xing
-      text: 小红书
+      text: Red note
       href: https://www.xiaohongshu.com/user/profile/61a31e790000000010007c40
     - icon: 📝
       text: CV

@@ -12,9 +12,9 @@ website:
   
   page-footer:
     left: |
-      [lianxh.cn](https://www.lianxh.cn)<br>
+      Nothing in the left<br>
     right: |
-      Made with [Quarto](https://quarto.org/)<br>
+      Nothing in the right<br>
     
   navbar: 
     background: "#A9CCE3"
@@ -30,7 +30,7 @@ website:
         href: blog.qmd
       - text: "Codes"
         href: codes.qmd
-      - text: "中文"
+      - text: "中文(Chinese)"
         href: Chinese.qmd
       - text: "CV"
         href: CV.pdf
