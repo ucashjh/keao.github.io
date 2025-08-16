@@ -13,9 +13,12 @@ about:
     - icon: github
       text: ucashjh
       href: https://github.com/ucashjh
-    - icon: brands xing
+    - icon: book
       text: Red note
       href: https://www.xiaohongshu.com/user/profile/61a31e790000000010007c40
+    - icon: Claculator
+      text: Stack exchange
+      href: https://math.stackexchange.com/users/1200701/clikex
 ---
 
 ::: {#hero-heading}
