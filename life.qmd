@@ -7,7 +7,7 @@ editor:
 
 - This page will display my life in the future
 
-
+---
 
 ## favourites
 
