@@ -17,6 +17,10 @@ Some note was collected or written by myself. If you have any questions or disco
 
 -   Finsler Geometry note [Course](https://tianyuan.xmu.edu.cn/cn/MiniCourses/3754.html) | [Note download](https://drive.google.com/file/d/1G7GhRxKXQbJCl1pPIwyhgVFONvUIxXgQ/view?usp=drive_link)
 
+
+-  A brief introduction to Frobenius theorem [Note download](https://drive.google.com/file/d/1Qc1C6CVpytnmAXRamMprNBkpBvrhP7pR/view?usp=sharing)
+
+
 ---
 
 
