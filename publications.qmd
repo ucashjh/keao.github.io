@@ -10,12 +10,14 @@ editor: visual
 > -   **ORCID**: <https://orcid.org/0009-0007-3698-3562>
 :::
 
- 
-
 ## Paper
 
 -   
 
-## Note and essay
+## Note and essay (will not publish)
 
-1.  A brief introduction of Frobenius Theorem.
+1.  Finsler geometry note
+
+<!-- -->
+
+2.  A brief introduction of Frobenius Theorem.
