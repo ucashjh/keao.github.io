@@ -9,7 +9,7 @@ about:
   links:
     - icon: mailbox
       text: hejiehao23@mails.ucas.ac.cn
-      href: mailto:hejiehao23@mails.ucas.ac.cn
+      href: "mailto:hejiehao23@mails.ucas.ac.cn"
     - icon: github
       text: ucashjh
       href: https://github.com/ucashjh
