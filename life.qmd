@@ -28,9 +28,12 @@ editor:
 
 ## Photography & Cycling
 
-![Back Mountain of School](images/School.jpg){width="400px" } 
-![Lihu Lake](images/Lihu%20lake.jpg){width="400px" } 
-![Gualv lake](images/Gualv%20lake.jpg){width="400px" } 
-![Yanwu Bridge](images/yw.jpg){width="400px"} 
-![The Great Wall](images/The%20Great%20Wall.jpg){width="400px" fig-cap="The Great Wall"}
-![Changdi Village](images/cun3.jpg){width="400px" fig-cap="Changdi Village"} 
+::: {.tight-layout}
+![Back Mountain of School](images/School.jpg){width="350px" } 
+![Lihu Lake](images/Lihu%20lake.jpg){width="350px" } 
+![Gualv lake](images/Gualv%20lake.jpg){width="350px" } 
+![Yanwu Bridge](images/yw.jpg){width="350px"} 
+![The Great Wall](images/The%20Great%20Wall.jpg){width="350px" }
+![Changdi Village](images/cun3.jpg){width="350px"} 
+...
+:::
