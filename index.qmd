@@ -1,10 +1,10 @@
 ---
-title: "Keao Hohtri <br> (Chinese name 何杰豪,He Jiehao )"
+title: "Keao Ho <br> (Chinese name 何杰豪,He Jiehao )"
 image: images/keao.jpg
 about:
   id: hero-heading
   template: trestles
-  image-width: 15em
+  image-width: 18em
   image-shape: round
   links:
     - icon: mailbox
