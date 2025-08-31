@@ -1,5 +1,5 @@
 ---
-title: "Keao Ho <br> (Chinese name 何杰豪,He Jiehao )"
+title: "Keao Ho <br> (何杰豪, He Jiehao )"
 image: images/keao.jpg
 about:
   id: hero-heading
