@@ -1,10 +1,10 @@
 ---
-title: "Keao Ho <br> (何杰豪, He Jiehao )"
+title: "Keao Ho <br> (何杰豪)"
 image: images/keao.jpg
 about:
   id: hero-heading
   template: trestles
-  image-width: 18em
+  image-width: 25em
   image-shape: round
   links:
     - icon: mailbox
