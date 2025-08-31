@@ -1,5 +1,5 @@
 ---
-title: "Publications"
+title: "Publications and Sources"
 editor: visual
 ---
 
@@ -12,12 +12,13 @@ editor: visual
 
 ## Paper
 
-1.  [Machine-Learning-Assisted Optimizing Photoelectric Conversion Efficiency for Perovskite Solar Cell (Not submitted)](https://drive.google.com/file/d/1hzkocV5U5Q7fygtH3mpSIQnpzBV62thK/view?usp=drive_link ) (demo version)
+1.  [Machine-Learning-Assisted Optimizing Photoelectric Conversion Efficiency for Perovskite Solar Cell (Not submitted)](https://drive.google.com/file/d/1hzkocV5U5Q7fygtH3mpSIQnpzBV62thK/view?usp=drive_link) (demo version)
 
 ## Note and essay (will not publish)
 
-1.  Finsler geometry note
+-   Finsler Geometry note (Chinese) [Course](https://tianyuan.xmu.edu.cn/cn/MiniCourses/3754.html) \| [Note download](https://drive.google.com/file/d/1G7GhRxKXQbJCl1pPIwyhgVFONvUIxXgQ/view?usp=drive_link)
 
 <!-- -->
 
-2.  A brief introduction of Frobenius Theorem.
+-   A brief introduction to Frobenius theorem (English) [Note download](https://drive.google.com/file/d/1Qc1C6CVpytnmAXRamMprNBkpBvrhP7pR/view?usp=sharing)
+-

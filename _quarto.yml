@@ -22,10 +22,8 @@ website:
     right: 
       - text: "Home"
         href: index.qmd
-      - text: "Publications"
+      - text: "Publications and Sources"
         href: publications.qmd
-      - text: "Sources"
-        href: sources.qmd
       - text: "Life"
         href: life.qmd
       - text: "Codes"
