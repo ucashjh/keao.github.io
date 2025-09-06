@@ -4,7 +4,7 @@ image: images/keao.jpg
 about:
   id: hero-heading
   template: trestles
-  image-width: 24em
+  image-width: 22em
   image-shape: round
   links:
     - icon: mailbox
@@ -19,6 +19,12 @@ about:
     - icon: Claculator
       text: Stack exchange
       href: https://math.stackexchange.com/users/1200701/clikex
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/%E6%9D%B0%E8%B1%AA-%E4%BD%95-023702381/
+    - icon: person-vcard
+      text: ORCID
+      href: https://orcid.org/my-orcid?orcid=0009-0007-3698-3562
 ---
 
 ::: {#hero-heading}
